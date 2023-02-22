@@ -25,6 +25,10 @@ issue that will be created. This is where speakers will be selected and the
 presentation schedule will be organized. The stream is hosted on StreamYard, and
 you'll get a link to the stage the day of the meetup.
 
+## Code of Conduct
+
+The Rust Gamedev Meetup follows the [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct).
+
 ## Contact
 
 For any questions or suggestions, please contact the organizers through the
